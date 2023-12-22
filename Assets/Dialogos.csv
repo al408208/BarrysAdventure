@@ -1,0 +1,50 @@
+﻿Dialog Title;Dialog Number;Dialog Line Number;Receptor;Role;Raw Spanish Text
+Tutorial_1;0;0;InfoBot;InfoBot;¡Hola! Bienvenidx al tutorial rápido!
+Tutorial_2;0;1;InfoBot;InfoBot;¡Empieza moviendote con WASD y cruza este camino esquivando las rocas!
+Tutorial_3;0;2;InfoBot;InfoBot;¡Nos vemos al otro lado!
+Tutorial_4;0;0;InfoBot_2;InfoBot;¡Muy bien, veo que te sabes mover!
+Tutorial_5;0;1;InfoBot_2;InfoBot;¡Te voy a dar una hoz para que puedas abrirte paso por el siguiente camino!
+Tutorial_6;0;2;InfoBot_2;InfoBot;"¡Recuerda pulsar la tecla ""E"" cuando estés cerca de un arbusto!"
+Tutorial_7;0;3;InfoBot_2;InfoBot;Si lo consigues, llegarás al poblado, ¡buena suerte!
+Miranda1;0;0;Miranda;Miranda;Hola hijo, buenos días ¿Dónde estabas?
+Miranda1;0;1;Miranda;Miranda;Bueno es igual, necesito que me hagas un favor.
+Miranda1;0;2;Miranda;Miranda;Sabes que te quiro, por eso debes irte .
+Miranda1;0;3;Miranda;Miranda;Ya no queda ni aceite en la Ferretería . . . 
+Miranda1;0;4;Miranda;Miranda;todos nuestroa conocidos están .
+Miranda1;0;5;Miranda;Miranda;Barry debes irte, puede que el viejo Granjero te ayude.
+Miranda1;0;6;Miranda;Miranda;Sal del pueblo por el norte, porfa hijo . . .
+Miranda1;0;7;Miranda;Miranda;no quiero verte enfermo a ti también.
+Miranda1;0;8;Miranda;Miranda;
+Chatarero;0;0;Chatarero;Chatarero;Bienvenido pequeño, ¿Qué necesitas?
+Chatarero;0;1;Chatarero;Chatarero;Me temo que solo nos quedan alguna tuercas.
+Chatarero;0;2;Chatarero;Chatarero;Esta enfermedad va a acabar con la aldea.
+Chatarero;0;3;Chatarero;Chatarero;
+Ermitaño;0;0;Ermitaño;Ermitaño;Si encuentras madera te diré como levantar el puente
+Ermitaño;1;1;Ermitaño;Ermitaño;Ten la llave para buscar la palanca
+Ermitaño;2;2;Ermitaño;Ermitaño;Yo escondí la palanca, porque tenia miedo de que la ingección se expandiese . . .
+Palanca;1;0;Palanca;Palanca;Genial ya está arreglada
+Mendoza;0;0;Mendoza;Mendoza;Hey chaval ¿Quieres conseguir dinero fácil?
+Mendoza;0;1;Mendoza;Mendoza;Soy un empresario nuevo en la ciudad y necesito algo de promoción
+Mendoza;0;2;Mendoza;Mendoza;. . .
+Mendoza;0;3;Mendoza;Mendoza;Bueno, si no quires dinero simepre te puedo ayudar.
+Mendoza;0;4;Mendoza;Mendoza;Pero primero busca la casa redonda y reparte unos folletos.
+Mendoza;0;5;Mendoza;Mendoza;
+Brenda;0;0;Brenda;Brenda;Hola, perdona, ¿Me puedes ayudar?
+Brenda;0;1;Brenda;Brenda;Hace unos días me fui de casa porque me enfadé
+Brenda;0;2;Brenda;Brenda;Pero el mapa que llevba se ha roto y ahora no puedo volver
+Brenda;0;3;Brenda;Brenda;. . . 
+Brenda;0;4;Brenda;Brenda;¿Seguro? Muchas gracias
+Brenda;0;5;Brenda;Brenda;Por cierto soy Brenda, y si me ayudas estaré dispuesta a . . .
+Brenda;0;6;Brenda;Brenda;ayudarte en lo que necesites.
+Brenda;0;7;Brenda;Brenda;
+Pepe;0;0;Pepe;Pepe;Buenos días, bienvenido a la sede de Robots Sin Fronteras.
+Pepe;0;1;Pepe;Pepe;Así que una tal Brenda te dijo que podíamos ayudarte.
+Pepe;0;2;Pepe;Pepe;(Le cuentas lo que ha pasado en tu aldea y con tu madre)
+Pepe;0;3;Pepe;Pepe;Por supuesto que podemos actuar . . .
+Pepe;0;4;Pepe;Pepe;además no tardaremos nada en llevar lo necesario para tu gente.
+Pepe;0;5;Pepe;Pepe;Te vamos a regresar allí y vamos a enviar paquetes de recursos . . .
+Pepe;0;6;Pepe;Pepe;Toma los paquetes verdes que te enviamos.
+Pepe;0;7;Pepe;Pepe;Los rojos están infectados, son muy peligrosos.
+Pepe;0;8;Pepe;Pepe;(Recuerda que para cambiar de dirección debes tocar la pantalla)
+Pepe;0;9;Pepe;Pepe;Ve al edificio de la izquierda.
+Pepe;0;10;Pepe;Pepe;

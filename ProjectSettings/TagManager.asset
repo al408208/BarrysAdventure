@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NextScene
+  - PreviousScene
+  - palanca
+  - item
+  - miranda
+  - chatarrero
+  - enemy
+  - point
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Character
+  - Confiner
+  - InteractObs
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 261052793
+    locked: 0
+  - name: subground
+    uniqueID: 1280068783
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: upground
+    uniqueID: 2860634821
+    locked: 0
